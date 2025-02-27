@@ -5,4 +5,4 @@ numpy
 seaborn
 scikit-learn
 xgboost
-lightgbm classifier
+lightgbm 
